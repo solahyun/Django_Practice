@@ -84,3 +84,6 @@ __pycache__/
 media/
 
 staticfiles/
+
+sol_project
+sol_project.pub
