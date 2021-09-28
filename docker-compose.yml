@@ -14,7 +14,7 @@ services:
       - gis_prac_media:/data/media/
 
   django:
-    image: django_solproject:4
+    image: django_solproject:5
     networks:
       - gis_proj1_network
     volumes:
